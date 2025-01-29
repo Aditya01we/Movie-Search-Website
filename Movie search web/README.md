@@ -15,7 +15,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/karantondare/react-movie-search-app
+   git clone https://github.com/Aditya01we/Movie-Search-web
    ```
 2. Install NPM packages
    ```sh
@@ -29,7 +29,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/karantondare/react-movie-search-app/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Aditya01we/Movie-Sdearch-Websit/issues) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 ## License
